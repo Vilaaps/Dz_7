@@ -26,6 +26,6 @@
 //            else
 //                status = "Нет";
 
-//            Console.WriteLine("название - " + this.title +  ", автор - " + this.author + ", год издания - " + this.year + ", доступна ли для выдачи - " + status);
+//            Console.WriteLine($"название - {this.title}, автор - {this.author}, год издания - {this.year}, доступна ли для выдачи - {status}");
 //        }
 //    }
